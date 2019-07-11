@@ -41,7 +41,7 @@ img {
 .classy-nav-container {
 /*	position: relative;*/
 	z-index: 100;
-	background-color: transparent;
+	background-color:white;
 	/* sticky */
 }
 

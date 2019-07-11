@@ -17,6 +17,10 @@
 	padding: 0;
 }
 
+#partner{
+	padding: 50px;
+}
+
 body {
 	font-family: "Karla", sans-serif;
 	color: #707070;
@@ -2377,7 +2381,7 @@ input:focus {
 	font-size: 18px;
 	font-weight: 700;
 	margin-bottom: 30px;
-	color: #ffffff;
+	color: #77B112;
 }
 
 .footer-area .footer-widget p {

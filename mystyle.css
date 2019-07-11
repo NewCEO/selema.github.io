@@ -5,3 +5,19 @@
 #services{
   
 }
+
+#ptag{
+	margin-left: 80px;
+}
+
+#section{
+	margin-bottom: 20px;
+}
+
+#img{
+	margin-top: 40px;
+}
+
+	.hover a:hover{
+		text-decoration:underline;
+	}
