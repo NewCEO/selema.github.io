@@ -19,7 +19,22 @@
 
 #partner{
 	padding: 50px;
+/*	padding-top: 186px;*/
 }
+
+.shrink{
+	width: 50%;
+}
+
+#bg-con{
+	margin-top: -230px;
+}
+
+.img{
+/*	display: flex;*/
+	justify-content: center;
+}
+
 
 body {
 	font-family: "Karla", sans-serif;
@@ -319,7 +334,7 @@ input:focus {
 .section-heading {
 	position: relative;
 	z-index: 1;
-	margin-bottom: 50px;
+/*	margin-bottom: 50px;*/
 }
 
 .section-heading p {
@@ -565,7 +580,7 @@ input:focus {
 
 .header-area .famie-main-menu .classy-navbar {
 	padding: 0;
-	height: 80px;
+	height: 100px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
